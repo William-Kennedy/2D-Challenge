@@ -1,0 +1,10 @@
+1.0 General
+1.1 The car must be able to form one closed section i.e there are no floating parts. Exceptions to this rule are found in sections 2 and 3.
+1.2 There must be no part of the car touching the bottom of the supplied image i.e the car has some ground clearance.
+1.3 There must be no part of the car touching the edges of the supplied image. 
+
+2.0 Front Wing
+2.1 There may be up too 2 floating sections of the front wing.
+
+3.0 Rear Wing
+3.1 There may be up too 2 floating sections of the rear wing.
